@@ -1,3 +1,4 @@
 print("hello")
 print("BRUH")
-input()
+value = input()
+print(value)
